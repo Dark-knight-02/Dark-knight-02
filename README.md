@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav S</h1>
-<h3 align="center">A passionate MnC sophomore student from IIT BHU, India</h3>
+<h3 align="center">A passionate Mathematics and Computing final year student from IIT BHU, India</h3>
 
 - 🔭 I’m currently working on **projects related to Computer Vision and Natural Language Processing.**
 
